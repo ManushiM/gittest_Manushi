@@ -2,3 +2,4 @@ Line 1
 Line 3
 Line 2
 Hi Manushi! I forked first and it worked! good morning =D
+So fork -> Clone -> Other person aceepts merge request -> 'pull's and we're done right? :D
